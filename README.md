@@ -65,6 +65,8 @@ Clip one switch pin for the switch above the USB-C port, and insert the switches
 Insert the Nice! Nano into the bottom header pins oriented so that the logo and chips are no longer visible. Clip the bottom pins so that they are flush with the Nice! Nano, then solder the header pins to the Nice! Nano.
 
 ### 8. Battery
+* **Make sure the red wire plugs into the red wire!**
+
 Tape the battery to the case, knot the excess battery cable, and plug it in as shown. The cables coming out of the controller should be taut against the end of the controller so that they don't hit the edge of the battery cavity in the case.
 
 ### 9. Case
