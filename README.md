@@ -56,7 +56,8 @@ Solder the Rotary Encoder and clip the pins
 After soldering, test the keys with a tweezer shorting each switch pin while plugged into a computer with a key tester open.
 
 ### 7. Switches and Plate
-Insert the switches into the plate and PCB
+* **The switch pin directly above the USB-C port must be clipped!**
+Clip one switch pin for the switch above the USB-C port, and insert the switches into the plate and PCB
 
 ### 8. Battery
 Tape the battery to the case, knot the excess battery cable, and plug it in as shown. The cables coming out of the controller should be taut against the end of the controller so that they don't hit the edge of the battery cavity in the case.
