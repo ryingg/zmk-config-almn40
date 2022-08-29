@@ -99,7 +99,7 @@ Knot the excess battery cable, and plug it in as shown.
 The cables coming out of the controller should be taut against the end of the controller so that they don't hit the edge of the battery cavity in the case.
 ![Battery](https://user-images.githubusercontent.com/7244488/187103078-d0f9610d-079f-43b9-8bc9-28533ffb0dcd.jpg)
 
-Tape the battery to the case
+Tape the battery to the case.
 ![Battery](https://user-images.githubusercontent.com/7244488/187103096-464e790a-98db-429f-84de-cad24088f8a4.jpg)
 
 ### 9. Case
