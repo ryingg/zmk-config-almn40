@@ -33,7 +33,6 @@ Default config for ALMN40 based on Polarity Works CRBN
 
 
 ![Parts](https://user-images.githubusercontent.com/7244488/187102521-add77e6e-206d-450e-b206-9b18f44b4a46.jpg)
-jpg)
 
 
 ## Soldering PCB
