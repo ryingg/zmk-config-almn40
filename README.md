@@ -1,9 +1,10 @@
 # ALMN40 Keyboard
 Default config for ALMN40 based on Polarity Works CRBN
+
 ![ALMN40 Keyboard](https://user-images.githubusercontent.com/7244488/187102496-6a5a9021-7ee4-4d41-9ac1-a0a9f1ebefd9.jpg)
 
 # Build Guide
-**NOTE**
+**Important Notes**
 * The top pin on the switch that goes above the USB-C port must be clipped because of the height tolerance!
 * The bottom three diodes must be soldered on the underside of the PCB because of the height tolerance!
 
