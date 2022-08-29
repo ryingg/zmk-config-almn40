@@ -45,19 +45,20 @@ Bend the diode pins along the edge of the PCB, insert into PCB, then tape the to
 **The wires should be inserted from the side where the chips are visible with the Nice! Nano logo!**
 Solder the battery wires so that they can be tucked in between the Nice! Nano and the PCB later.
 
-### 4. Header Pins
-* **The Nice! Nano must be oriented so that the chips with the Nice! Nano logo face inside toward the PCB! They should not be visible.**
-Insert the header pins such that the shorter pins go into the PCB, and the longer pins go into the Nice! Nano. Solder the header pins to the PCB first, then clip the bottom pins so that they are flush with the Nice! Nano, then solder the header pins to the Nice! Nano.
+### 4. PCB Header Pins
+* **Do not solder the Nice! Nano yet if you are not using hot swap sockets**
+Insert the header pins such that the shorter pins go into the PCB, and solder the header pins to the PCB. The Nice! Nano can be inserted and oriented so that the chip and logo are no longer visible for alignment, but DO NOT solder it yet, otherwise the switches will be blocked from soldering.
 
 ### 5. Optional - Rotary Encoder
 Solder the Rotary Encoder and clip the pins
 
-### 6. Test PCB
-After soldering, test the keys with a tweezer shorting each switch pin while plugged into a computer with a key tester open.
-
-### 7. Switches and Plate
+### 6. Switches and Plate
 * **The switch pin directly above the USB-C port must be clipped!**
-Clip one switch pin for the switch above the USB-C port, and insert the switches into the plate and PCB
+Clip one switch pin for the switch above the USB-C port, and insert the switches into the plate and PCB. Solder the switches if you are not using hot swap sockets.
+
+### 7. Nice! Nano
+* **The Nice! Nano must be oriented so that the chips with the Nice! Nano logo face inside toward the PCB! They should not be visible.**
+Insert the Nice! Nano into the bottom header pins oriented so that the logo and chips are no longer visible. Clip the bottom pins so that they are flush with the Nice! Nano, then solder the header pins to the Nice! Nano.
 
 ### 8. Battery
 Tape the battery to the case, knot the excess battery cable, and plug it in as shown. The cables coming out of the controller should be taut against the end of the controller so that they don't hit the edge of the battery cavity in the case.
