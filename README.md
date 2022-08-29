@@ -77,6 +77,9 @@ Clip one switch pin for the switch above the USB-C port, and insert the switches
 Solder the battery wires so that they can be tucked in between the Nice! Nano and the PCB later.
 ![Wires](https://user-images.githubusercontent.com/7244488/187102948-51552f37-a22c-4856-98b8-1b135192f6a7.jpg)
 
+Solder the charge boost jumper on the Nice! Nano for batteries above 500mAh. The included battery is 1500mAh.
+![Jumper](https://user-images.githubusercontent.com/7244488/187103229-0766e9b2-aa29-4a53-9fa8-3acc8143a2af.jpg)
+
 ### 7. Nice! Nano
 * **The Nice! Nano must be oriented so that the chips with the Nice! Nano logo face inside toward the PCB! They should not be visible.**
 
