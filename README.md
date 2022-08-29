@@ -22,10 +22,47 @@ Default config for ALMN40 based on Polarity Works CRBN
 * 48x Switches
 * 48x Keycaps
 * Optional 1x EC11 / EC12 Rotary Encoder and Knob
-* Optional 96x Mill Max 3305 Hot Swap Sockets
+* Optional 96x Mill-Max 3305 Hot Swap Sockets
 
 ### Tools Required
 * Soldering Iron
 * Cutters
 * Philips Screwdriver
 * Electrical Tape
+
+## Soldering PCB
+### 1. Optional - Mill-Max Hot Swap Sockets
+Press Mill-Max Hot Swap Sockets tightly into each switch pin hole, then tape the top of each row with electrical tape and solder the underside. I am using Mill-Max 3305-0-15-80-47-27-10-0.
+
+### 2. Diodes
+* **Ensure the polarity of the diodes is correct before soldering!**
+* **The three bottom diodes must be soldered on the underside of the PCB, otherwise they will hit the switches!**
+
+Bend the diode pins along the edge of the PCB, insert into PCB, then tape the top of each row with electrical tape, then clip the pins on the underside and solder.
+
+### 3. Battery Wires
+* **The red wire goes on the positive (+) terminal!**
+**The wires should be inserted from the side where the chips are visible with the Nice! Nano logo!**
+Solder the battery wires so that they can be tucked in between the Nice! Nano and the PCB later.
+
+### 4. Header Pins
+* **The Nice! Nano must be oriented so that the chips with the Nice! Nano logo face inside toward the PCB! They should not be visible.**
+Insert the header pins such that the shorter pins go into the PCB, and the longer pins go into the Nice! Nano. Solder the header pins to the PCB first, then clip the bottom pins so that they are flush with the Nice! Nano, then solder the header pins to the Nice! Nano.
+
+### 5. Optional - Rotary Encoder
+Solder the Rotary Encoder and clip the pins
+
+### 6. Test PCB
+After soldering, test the keys with a tweezer shorting each switch pin while plugged into a computer with a key tester open.
+
+### 7. Switches and Plate
+Insert the switches into the plate and PCB
+
+### 8. Battery
+Tape the battery to the case, knot the excess battery cable, and plug it in as shown. The cables coming out of the controller should be taut against the end of the controller so that they don't hit the edge of the battery cavity in the case.
+
+### 9. Case
+Drop the PCB into the case, ensuring that the battery wires are tucked neatly into the battery cavity, and the USB-C port on the Nice! Nano is aligned with the opening in the case. Assemble the case with screws.
+
+### 10. Keycaps
+Add keycaps and enjoy your new ALMN40!
