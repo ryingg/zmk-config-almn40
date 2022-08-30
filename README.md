@@ -58,8 +58,9 @@ Insert diodes into PCB, then tape the top of each row with electrical tape, then
 
 ### 3. PCB Header Pins
 * **Do not solder the Nice! Nano yet if you are not using hot swap sockets**
+* **You must use 2.4mm-2.5mm tall headers or else the USB port won't line up with the case!**
 
-Insert the header pins such that the shorter pins go into the PCB, and solder the header pins to the PCB. The Nice! Nano can be inserted and oriented so that the chip and logo are no longer visible for alignment, but DO NOT solder it yet, otherwise the switches will be blocked from soldering.
+Insert the header pins such that the shorter pins go into the PCB, and solder the header pins to the PCB. The Nice! Nano can be inserted and oriented so that the chip and logo are no longer visible for alignment, but DO NOT solder it yet, otherwise the switches will be blocked from soldering. You can optionally use Mill Max Ultra Low Profile hot swap sockets which are 2.4mm tall https://www.littlekeyboards.com/products/ultra-low-profile-sockets
 ![Headers](https://user-images.githubusercontent.com/7244488/187102887-9389d253-c4dc-4804-afdd-01a7777e58cc.jpg)
 
 ### 4. Optional - Rotary Encoder
