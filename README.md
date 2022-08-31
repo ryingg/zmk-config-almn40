@@ -1,7 +1,12 @@
 # ALMN40 Keyboard
-Default config for ALMN40 based on Polarity Works CRBN
-
+based on Polarity Works CRBN
 ![ALMN40 Keyboard](https://user-images.githubusercontent.com/7244488/187102496-6a5a9021-7ee4-4d41-9ac1-a0a9f1ebefd9.jpg)
+
+### Default keymap 
+<img width="1011" alt="Screen Shot 2022-08-30 at 9 38 34 PM" src="https://user-images.githubusercontent.com/7244488/187573972-68675b9a-258e-49f9-91fb-f9536801a64f.png">
+<img width="1011" alt="Screen Shot 2022-08-30 at 9 38 43 PM" src="https://user-images.githubusercontent.com/7244488/187573990-01ebc3bf-9586-4878-a5f1-a637f17f9220.png">
+<img width="1008" alt="Screen Shot 2022-08-30 at 9 38 51 PM" src="https://user-images.githubusercontent.com/7244488/187573999-8b8d073f-ccaa-4f3b-99df-d0974dbec47a.png">
+<img width="1010" alt="Screen Shot 2022-08-30 at 9 38 58 PM" src="https://user-images.githubusercontent.com/7244488/187574001-72c8ba75-f3f8-4259-95ee-3f83fc75b7be.png">
 
 # Build Guide
 **Important Notes**
