@@ -116,3 +116,8 @@ Drop the PCB into the case, ensuring that the battery wires are tucked neatly in
 ### 10. Keycaps
 Add keycaps and enjoy your new ALMN40!
 ![Keycaps](https://user-images.githubusercontent.com/7244488/187103128-31e252ca-4ef6-44a9-bafe-59fc1ebf9e7e.jpg)
+
+
+### References
+Customizing your keymap with ZMK https://zmk.dev/docs/user-setup
+Nice! Nano docs https://nicekeyboards.com/docs/nice-nano/getting-started
