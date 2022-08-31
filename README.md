@@ -1,5 +1,6 @@
 # ALMN40 Keyboard
-based on Polarity Works CRBN
+Based on Polarity Works CRBN
+
 ![ALMN40 Keyboard](https://user-images.githubusercontent.com/7244488/187102496-6a5a9021-7ee4-4d41-9ac1-a0a9f1ebefd9.jpg)
 
 ### Default keymap 
