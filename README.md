@@ -12,7 +12,7 @@ Based on Polarity Works CRBN
 # Build Guide
 **Important Notes**
 * The top pin on the switch that goes above the USB-C port must be clipped because of the height tolerance!
-* The bottom three diodes must be soldered on the underside of the PCB because of the height tolerance!
+* The bottom three diodes on the V1 PCB must be soldered on the underside of the PCB because of the height tolerance!
 
 ### Kit Contents
 * 1x ALMN40 PCB
