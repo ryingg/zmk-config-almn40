@@ -121,3 +121,8 @@ Add keycaps and enjoy your new ALMN40!
 ### References
 * Customizing your keymap with ZMK https://zmk.dev/docs/user-setup
 * Nice! Nano docs https://nicekeyboards.com/docs/nice-nano/getting-started
+
+### Troubleshooting Connections
+https://github.com/zmkfirmware/zmk/issues/278#issuecomment-898619280
+https://zmk.dev/docs/troubleshooting#connectivity-issues
+https://discord.com/invite/sycytVQ
