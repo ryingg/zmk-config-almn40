@@ -123,6 +123,6 @@ Add keycaps and enjoy your new ALMN40!
 * Nice! Nano docs https://nicekeyboards.com/docs/nice-nano/getting-started
 
 ### Troubleshooting Connections
-https://github.com/zmkfirmware/zmk/issues/278#issuecomment-898619280
-https://zmk.dev/docs/troubleshooting#connectivity-issues
-https://discord.com/invite/sycytVQ
+* Resetting and Pairing Bluetooth https://github.com/zmkfirmware/zmk/issues/278#issuecomment-898619280
+* ZMK Connectivity Issues https://zmk.dev/docs/troubleshooting#connectivity-issues
+* ZMK Discord https://discord.com/invite/sycytVQ
