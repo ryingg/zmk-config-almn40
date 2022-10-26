@@ -12,7 +12,7 @@ Based on Polarity Works CRBN
 # Build Guide
 **Important Notes**
 * The top pin on the switch that goes above the USB-C port must be clipped because of the height tolerance!
-* The bottom three diodes on the V1 PCB must be soldered on the underside of the PCB because of the height tolerance!
+* On V1 of the PCB, the bottom three diodes on the V1 PCB must be soldered on the underside of the PCB because of the height tolerance!
 
 ### Kit Contents
 * 1x ALMN40 PCB
@@ -54,7 +54,7 @@ I am using Mill-Max 3305-0-15-80-47-27-10-0
 
 ### 2. Diodes
 * **Ensure the polarity of the diodes is correct before soldering!**
-* **The three bottom diodes must be soldered on the underside of the PCB, otherwise they will hit the switches!**
+* **On V1 of the PCB, the three bottom diodes must be soldered on the underside of the PCB, otherwise they will hit the switches!**
 
 Bend the diode pins along the edge of the PCB
 ![Diodes](https://user-images.githubusercontent.com/7244488/187102600-065db567-5149-4f03-bdd2-d64e92c8ea30.jpg)
